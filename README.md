@@ -1,4 +1,4 @@
-#Coffee Shop
+# Coffee Shop
 
 1. About the Project.
 This project is a static website designed to represent a coffee shop's online presence. The focus is on creating a visually appealing and user-friendly interface that works across all devices. The website includes sections such as a homepage, menu, about us, and contact.
